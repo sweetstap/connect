@@ -6,17 +6,17 @@
   },
   {
     "riddle": "Which dessert is known for its layers and is typically served in a glass dish?",
-    "options": ["Tiramisu", "Cheesecake", "Panna cotta", "Pavlova"],
+    "options": ["Cheesecake", "Tiramisu", "Panna cotta", "Pavlova"],
     "answer": "Tiramisu"
   },
   {
     "riddle": "What dessert is made from beaten egg whites and sugar, often served as a topping or treat?",
-    "options": ["Meringue", "Mousse", "Pudding", "Gelato"],
+    "options": ["Mousse", "Pudding", "Meringue", "Gelato"],
     "answer": "Meringue"
   },
   {
     "riddle": "Which pastry is often filled with cream and topped with powdered sugar, commonly enjoyed with coffee?",
-    "options": ["Eclair", "Danish", "Baklava", "Strudel"],
+    "options": ["Danish", "Baklava", "Eclair", "Strudel"],
     "answer": "Eclair"
   },
   {
@@ -46,32 +46,32 @@
   },
   {
     "riddle": "Which type of pastry is known for its flaky texture and is often filled with chocolate or almond paste?",
-    "options": ["Croissant", "Danish", "Scone", "Turnover"],
+    "options": ["Danish", "Croissant", "Scone", "Turnover"],
     "answer": "Croissant"
   },
   {
     "riddle": "What is a small, sweet bread roll often eaten as a treat or for breakfast, commonly covered with icing?",
-    "options": ["Doughnut", "Muffin", "Scone", "Brioche"],
+    "options": ["Muffin", "Scone", "Doughnut", "Brioche"],
     "answer": "Doughnut"
   },
   {
     "riddle": "Which dessert is made by cooking a mixture of milk, sugar, and eggs until thickened, often enjoyed chilled?",
-    "options": ["Custard", "Pudding", "Jelly", "Creme brulee"],
+    "options": ["Pudding", "Jelly", "Custard", "Creme brulee"],
     "answer": "Custard"
   },
   {
     "riddle": "What is the main ingredient in traditional shortbread cookies?",
-    "options": ["Butter", "Sugar", "Flour", "Vanilla"],
+    "options": ["Sugar", "Butter", "Flour", "Vanilla"],
     "answer": "Butter"
   },
   {
     "riddle": "Which dessert is often made with layers of sponge cake soaked in syrup and topped with whipped cream and fruit?",
-    "options": ["Trifle", "Pavlova", "Raspberry fool", "Crumble"],
+    "options": ["Pavlova", "Trifle", "Raspberry fool", "Crumble"],
     "answer": "Trifle"
   },
   {
     "riddle": "What type of dessert is typically made with a base of chocolate and cream, and often garnished with fruit or nuts?",
-    "options": ["Mousse", "Brownie", "Cheesecake", "Cake"],
+    "options": ["Brownie", "Mousse", "Cheesecake", "Cake"],
     "answer": "Mousse"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "riddle": "What is a small, sweet cake often topped with icing or fruit, typically enjoyed with tea?",
-    "options": ["Cupcake", "Muffin", "Scone", "Brownie"],
+    "options": ["Muffin", "Scone", "Cupcake", "Brownie"],
     "answer": "Cupcake"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "riddle": "What is a popular sweet treat made from caramelized sugar, often enjoyed in small, hard pieces?",
-    "options": ["Toffee", "Fudge", "Caramel", "Candy"],
+    "options": ["Fudge", "Caramel", "Toffee", "Candy"],
     "answer": "Toffee"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "riddle": "Which dessert is made from a sponge cake soaked in coffee or liqueur, and layered with a creamy filling?",
-    "options": ["Tiramisu", "Trifle", "Pavlova", "Eton mess"],
+    "options": ["Trifle", "Tiramisu", "Pavlova", "Eton mess"],
     "answer": "Tiramisu"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "riddle": "What dessert is made with layers of thinly sliced potatoes and is often served as a side dish or a dessert?",
-    "options": ["Potato gratin", "Potato cake", "Potato pie", "Potato pudding"],
+    "options": ["Potato cake", "Potato gratin", "Potato pie", "Potato pudding"],
     "answer": "Potato gratin"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "riddle": "Which dessert is made from a mixture of sweetened cream cheese, often flavored with fruit or chocolate, and served in a crust?",
-    "options": ["Cheesecake", "Pie", "Pudding", "Trifle"],
+    "options": ["Pie", "Pudding", "Cheesecake", "Trifle"],
     "answer": "Cheesecake"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "riddle": "Which pastry is filled with sweetened cheese and often enjoyed with coffee or tea?",
-    "options": ["Cheese Danish", "Croissant", "Eclair", "Cinnamon roll"],
+    "options": ["Croissant", "Eclair", "Cheese Danish", "Cinnamon roll"],
     "answer": "Cheese Danish"
   },
   {
@@ -176,32 +176,32 @@
   },
   {
     "riddle": "What is a traditional French pastry made with almond paste and often shaped into a small, round ball?",
-    "options": ["Macaron", "Madeleine", "Eclair", "Profiterole"],
+    "options": ["Madeleine", "Eclair", "Macaron", "Profiterole"],
     "answer": "Macaron"
   },
   {
     "riddle": "What dessert is often served with whipped cream and made from layers of sponge cake soaked in fruit juice?",
-    "options": ["Trifle", "Tiramisu", "Pavlova", "Cheesecake"],
+    "options": ["Tiramisu", "Trifle", "Pavlova", "Cheesecake"],
     "answer": "Trifle"
   },
   {
     "riddle": "Which type of chocolate is made by combining cocoa butter with cocoa solids and sugar, and often includes milk?",
-    "options": ["Milk chocolate", "Dark chocolate", "White chocolate", "Bittersweet chocolate"],
+    "options": ["Dark chocolate", "White chocolate", "Milk chocolate", "Bittersweet chocolate"],
     "answer": "Milk chocolate"
   },
   {
     "riddle": "What dessert is made by mixing egg yolks with sugar and milk, and often flavored with vanilla or rum?",
-    "options": ["Custard", "Pudding", "Meringue", "Gelato"],
+    "options": ["Pudding", "Custard", "Meringue", "Gelato"],
     "answer": "Custard"
   },
   {
     "riddle": "Which sweet treat is made by layering slices of cake with jam and cream, often decorated with fruit?",
-    "options": ["Victoria sponge", "Layer cake", "Fruit tart", "Cupcake"],
+    "options": ["Layer cake", "Victoria sponge", "Fruit tart", "Cupcake"],
     "answer": "Victoria sponge"
   },
   {
     "riddle": "What is a traditional Italian dessert made from layers of crispy pastry, custard, and often chocolate or fruit?",
-    "options": ["Cannoli", "Tiramisu", "Panna cotta", "Zabaglione"],
+    "options": ["Tiramisu", "Panna cotta", "Cannoli", "Zabaglione"],
     "answer": "Cannoli"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "riddle": "What is a small, sweet, often chocolate-covered treat made with caramel or nougat?",
-    "options": ["Candy bar", "Bonbon", "Truffle", "Fudge"],
+    "options": ["Bonbon", "Truffle", "Candy bar", "Fudge"],
     "answer": "Candy bar"
   },
   {
@@ -246,27 +246,27 @@
   },
   {
     "riddle": "What is a traditional Italian ice cream made with milk, cream, and sugar, and often enjoyed in a variety of flavors?",
-    "options": ["Gelato", "Sorbet", "Ice cream", "Sherbet"],
+    "options": ["Sorbet", "Ice cream", "Gelato", "Sherbet"],
     "answer": "Gelato"
   },
   {
     "riddle": "Which dessert is made with a mixture of sweetened cream cheese and often flavored with fruit or chocolate, and set in a crust?",
-    "options": ["Cheesecake", "Pie", "Tart", "Pudding"],
+    "options": ["Pie", "Tart", "Cheesecake", "Pudding"],
     "answer": "Cheesecake"
   },
   {
     "riddle": "What sweet treat is made from sweetened rice and often enjoyed warm or cold, and can be flavored with vanilla or cinnamon?",
-    "options": ["Rice pudding", "Cream caramel", "Bread pudding", "Flan"],
+    "options": ["Cream caramel", "Rice pudding", "Bread pudding", "Flan"],
     "answer": "Rice pudding"
   },
   {
     "riddle": "What dessert is often made with layers of sponge cake soaked in liqueur and topped with a creamy mixture of mascarpone and eggs?",
-    "options": ["Tiramisu", "Trifle", "Pavlova", "Eton mess"],
+    "options": ["Trifle", "Pavlova", "Tiramisu", "Eton mess"],
     "answer": "Tiramisu"
   },
   {
     "riddle": "What is a small, sweet treat made from finely ground almonds and sugar, often shaped into small, round balls?",
-    "options": ["Marzipan", "Macaron", "Truffle", "Bonbon"],
+    "options": ["Macaron", "Truffle", "Marzipan", "Bonbon"],
     "answer": "Marzipan"
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "riddle": "Which dessert is made with a mixture of flour, sugar, and eggs, and is often filled with fruit or chocolate chips?",
-    "options": ["Cake", "Cookie", "Brownie", "Pie"],
+    "options": ["Cookie", "Cake", "Brownie", "Pie"],
     "answer": "Cake"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "riddle": "Which dessert is made by cooking a mixture of eggs, milk, and sugar until thickened, and often flavored with vanilla or fruit?",
-    "options": ["Custard", "Pudding", "Flan", "Creme brulee"],
+    "options": ["Pudding", "Custard", "Flan", "Creme brulee"],
     "answer": "Custard"
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "riddle": "What is a sweet treat made from a mixture of sugar and egg whites, often shaped into small, round balls and baked until crispy?",
-    "options": ["Meringue", "Macaron", "Marshmallow", "Truffle"],
+    "options": ["Macaron", "Marshmallow", "Meringue", "Truffle"],
     "answer": "Meringue"
   },
   {
@@ -416,7 +416,7 @@
   },
   {
     "riddle": "What is a sweet treat made from a mixture of sugar and butter, often used as a topping or filling for baked goods?",
-    "options": ["Buttercream", "Frosting", "Ganache", "Glaze"],
+    "options": ["Frosting", "Ganache", "Buttercream", "Glaze"],
     "answer": "Buttercream"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "riddle": "What dessert is often made with layers of sponge cake soaked in liqueur and topped with a creamy mixture of mascarpone and eggs?",
-    "options": ["Tiramisu", "Trifle", "Pavlova", "Eton mess"],
+    "options": ["Trifle", "Pavlova", "Tiramisu", "Eton mess"],
     "answer": "Tiramisu"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "riddle": "What is a traditional Italian ice cream made with milk, cream, and sugar, and often enjoyed in a variety of flavors?",
-    "options": ["Gelato", "Sorbet", "Ice cream", "Sherbet"],
+    "options": ["Sorbet", "Gelato", "Ice cream", "Sherbet"],
     "answer": "Gelato"
   },
   {
