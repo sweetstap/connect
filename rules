@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "How to play",
+    "description": "Taps on sweets on screen and sometimes answer the questions",
+    "imageUrl": "https://i.ibb.co/Ntc1Hy0/howtoplay.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Questions",
+    "description": "Choose the answer, if its right you get x2 for your score",
+    "imageUrl": "https://i.ibb.co/QDCSTF4/quiestions.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Main",
+    "description": "You can put your photo in main screen to tap on circle",
+    "imageUrl": "https://i.ibb.co/P55Q0cv/main.jpg"
+  }
+]
